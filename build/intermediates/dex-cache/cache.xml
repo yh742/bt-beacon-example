@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/8fbc98ca76d69ad034b4caef94b8bfca7b11a31a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_f175eb3fa6a3c0989181c306fdb7b2fa99ff3af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/2a6e307652734b2353e62449865112e5a29657f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_d84991d96a0a56b788529a2960bf60c466fee524.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/9774bce6cbc5bdc5fc7745c189a7b667d3c96943/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_c4b0f84457f49bcc8eb486a6f6e767972c192617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/2627e26d777f3decd939bb30e839f93ade2ccc84/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_e217f8793fb4029ad6a488ad2eb742ddfdbd7b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/9f82df7d05622c65c44f60cd8b92c2b6a25ddf0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_800b753bb11bcc943af17d86500b931e17a17cce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_d00f181cf1df6d5d28d1be3f3b6911a6a98291da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1df75fe3c510b8d3a6be8873ebb635dcb9d507ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/9e19f60f8737716250be477d959f10e5fe85fd61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_53e974a1a67c5ddc89ce395d4cf48ef367df1963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/c3709dc2974681c619b5718bd1fd27e0b4cc6d94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_38e8408ea861e0daa22ed2a9f8a89dd0c4a43b58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/e8707cc5a2a471eb57234b9d22dff6aec8fa1233/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_76be1393908b643bdb5449b70b7f9cf8f9cf150d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/39e65947e139d65de9c7a3d6298a7779cfd7b1e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_69b19eec14311d54a24dad31b78ffbfd969cb2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/637bd3398c3abfcce8e89231b32eb0ac9dc24959/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_fcfd943b4dd1132735aecb67156f0762c6f36738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/ced855761fdd7ed81dcce816a638abafa16aceb6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="16f844ac918f5b50050fd8f637fa1463e2099fb0">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_bb33644236e2ea46bb7a807dd761cc9d5df23922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/1c754f461635324a3dcea8e2e25412fd7e3d7d48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_1c6d4ccbd3d8bd7ead66eb0d727d66ece43238f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/57701d4047ca15de0dd583317e897a7dbfdce719/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_6c632a4bcc80fb7275a6e967ca4c1e562fc6507e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/77f1a6120325abaa87e1d175be6fddf8a683c09c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_e38b81eb3441accbd1860b8fa10a293c505c2c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/seanhsu/.android/build-cache/6ae6dbed733a5403fd9bd392ee71ff9690f22b71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/seanhsu/AndroidStudioProjects/MyLilHealthBot/app/build/intermediates/pre-dexed/debug/classes_992aba33bd2f1d3d56af50906d2f7098f53a0a13.jar" />
+    </item>
+
+</items>

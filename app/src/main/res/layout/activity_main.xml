@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.seanhsu.mylilhealthbot.MainActivity">
+
+    <LinearLayout
+        android:layout_width="368dp"
+        android:layout_height="495dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="8dp"
+        android:descendantFocusability="beforeDescendants"
+        android:focusableInTouchMode="true"
+        tools:layout_editor_absoluteY="8dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="24dp"
+            android:text="@string/pay_success"
+            android:textAllCaps="false"
+            android:textSize="18dp"
+            />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="142dp"
+            android:layout_height="111dp"
+            android:src="@drawable/ic_action_name"/>
+
+        <TextView
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.04"
+            android:background="@null"
+            android:clickable="false"
+            android:ems="10"
+            android:inputType="none"
+            android:longClickable="false"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/coupon"
+            android:textIsSelectable="false"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/editText4"
+            android:layout_width="320dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.04"
+            android:background="@color/common_google_signin_btn_text_dark_disabled"
+            android:clickable="false"
+            android:ems="10"
+            android:inputType="none"
+            android:longClickable="false"
+            android:text="@string/fake_coupon"
+            android:textAlignment="center"
+            android:textIsSelectable="false"
+            android:textSize="14sp"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_weight="0.04"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="0.08"
+                android:padding="8dp"
+                app:srcCompat="@drawable/ic_next"/>
+
+            <TextView
+                android:id="@+id/editText3"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_weight="0.16"
+                android:background="@null"
+                android:clickable="false"
+                android:ems="10"
+                android:inputType="none"
+                android:longClickable="false"
+                android:paddingBottom="5dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:paddingTop="15dp"
+                android:text="@string/next_steps"
+                android:textIsSelectable="false"
+                android:textSize="14sp"
+                android:textStyle="bold"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:clickable="false"
+            android:ems="4"
+            android:inputType="textPersonName"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/step_1"
+            android:textSize="14sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <EditText
+                android:id="@+id/editText7"
+                android:layout_width="239dp"
+                android:layout_height="match_parent"
+                android:ems="10"
+                android:inputType="textPersonName"
+                />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:srcCompat="@mipmap/ic_location"/>
+
+            <TextView
+                android:id="@+id/editText6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@null"
+                android:clickable="false"
+                android:ems="2"
+                android:inputType="none"
+                android:longClickable="false"
+                android:paddingTop="10dp"
+                android:text="@string/location"
+                android:textAlignment="center"
+                android:textIsSelectable="false"
+                android:textSize="10sp"/>
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/editText8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:clickable="false"
+            android:ems="4"
+            android:inputType="textPersonName"
+            android:paddingBottom="5dp"
+            android:paddingTop="5dp"
+            android:text="@string/step_2"
+            android:textSize="14sp"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="6dp"
+            android:layout_weight="0.39"
+            android:background="@color/common_google_signin_btn_text_dark_disabled"
+            android:paddingBottom="13dp"
+            android:paddingTop="15dp"
+            android:textAlignment="center"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:text="@string/vend"/>
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

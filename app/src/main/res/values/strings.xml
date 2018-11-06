@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Lil HealthBot</string>
+    <string name="pay_success">Payment Success</string>
+    <string name="coupon">Here is your coupon code:</string>
+    <string name="fake_coupon">18292031</string>
+    <string name="next_steps">What\'s your next step?</string>
+    <string name="step_1">1. Find the nearest HealthBot!</string>
+    <string name="step_2">2. When you are close enough, press vend!</string>
+    <string name="location"> use current \n location</string>
+    <string name="vend">VEND</string>
+</resources>
