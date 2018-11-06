@@ -1,5 +1,5 @@
 # bt-beacon-example
-Android bluetooth beacon component used for ranging
+Android bluetooth beacon component used for indoor ranging
 ## Setup on raspberry pi
 Start hcitool as a daemon on startup to transmit Eddystone-UID
 ```
